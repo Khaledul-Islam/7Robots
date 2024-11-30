@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="ELkNMo0Q4k6k1tx5KrppQg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="google.com/search" CVScreenId="09e9cd0f-d8eb-4d9d-bdb6-fdd57eb863b2" CvTextArea="749, 400, 90, 18" CvType="AnyWordGroup" DesignTimeRectangle="748, 400, 92, 17" DesignTimeScaleFactor="1" ElementType="Text" FullSelectorArgument="&lt;webctrl id='wob_dc' tag='SPAN' /&gt;" FuzzySelectorArgument="&lt;webctrl id='wob_dc' tag='SPAN' type='' class='' /&gt;" Guid="428e2461-801c-4b96-b246-773e58b0c3d4" ImageBase64="" ScopeSelectorArgument="&lt;html app='chrome.exe' title='current weather in dhaka in celsius. - Google Search' /&gt;" SearchSteps="Selector, FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="7bc3a8fe19a2caf81a1a6efb3ed604d3.png" xmlns="">0KAklhOsHck6aGVersZzT9w</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="JQvVuxbruUir0_yTzgbG3A" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="google.com/search" CVScreenId="9478ad92-ee0a-47b6-a9e2-9b21d3ebe0de" CvTextArea="257, 361, 57, 39" CvType="AnyWordGroup" DesignTimeRectangle="258, 351, 56, 60" DesignTimeScaleFactor="1" ElementType="Text" FullSelectorArgument="&lt;webctrl id='wob_tm' tag='SPAN' /&gt;" FuzzySelectorArgument="&lt;webctrl id='wob_tm' tag='SPAN' type='' class='wob_t q8U8x' /&gt;" Guid="705ba850-82dc-46af-b6b7-c9316a5fee06" ImageBase64="" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Current Weather in kurigram in Fahrenheit. - Google Search' /&gt;" SearchSteps="Selector, FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="b1b67b02bacea4dfdcf1c5bacceafe79.png" xmlns="">0QW9RQ_5jkEqw6aM2wHg_Gg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

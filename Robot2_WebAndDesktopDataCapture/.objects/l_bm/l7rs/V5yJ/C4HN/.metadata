@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Female",
+  "Type": "Element",
+  "TaxonomyType": "RadioButton",
+  "Id": "C4HN_K4-UkuXq27izOzObA",
+  "Reference": "FvgGKj6szEW3oX6HoKURPw/C4HN_K4-UkuXq27izOzObA",
+  "ParentRef": "FvgGKj6szEW3oX6HoKURPw/V5yJtO7-_0u4k4Tsq7xm3g",
+  "Created": "2024-11-30T16:45:56.6007821Z",
+  "Updated": "2024-11-30T16:45:56.6007821Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

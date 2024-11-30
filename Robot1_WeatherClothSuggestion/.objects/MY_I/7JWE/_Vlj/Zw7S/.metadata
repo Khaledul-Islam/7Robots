@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Partly cloudy",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "Zw7SXtSIrUyiQhg_3wLAWg",
+  "Reference": "0-qNXLw1s0GVkNgoLAIW_Q/Zw7SXtSIrUyiQhg_3wLAWg",
+  "ParentRef": "0-qNXLw1s0GVkNgoLAIW_Q/_VljgTU4pEug2y6HHsSArw",
+  "Created": "2024-11-29T14:37:36.8830818Z",
+  "Updated": "2024-11-29T14:37:36.8830818Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
